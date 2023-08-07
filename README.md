@@ -1,1 +1,1 @@
-# gymbot
+# TeleDiet
